@@ -1,0 +1,48 @@
+    #mydiv{
+        background-color: black;
+        height: 250px; width: 250px;
+        border-radius: 50%;
+        animation-name: b;
+        animation-duration: 2s;
+    }
+
+    #wdiv{
+        background-color: black;
+        height: 250px; width: 250px;
+        border-radius: 50%;
+        animation-name: idk;
+        animation-duration: 1.5s;
+        animation-delay: 3.5s;
+    }
+
+    #ldiv{
+        background-color: black;
+        height: 250px; width: 250px;
+        border-radius: 50%;
+        animation-name: spike;
+        animation-duration: 1.5s;
+        animation-delay: 5.5s;
+    }
+
+    @keyframes spike{
+        from {background-color: black;}
+        to {background-color: green;}
+    }
+
+    @keyframes idk{
+        from {background-color: black;}
+        to {background-color: yellow;}
+    }
+
+    @keyframes b{
+        from {background-color: black;}
+        to   {background-color: red;}
+    }
+
+    .trafficlight{
+        display: flex;
+        flex-direction: column;
+        margin-left: 50%;
+        border-style: dashed;
+        width: 250px;
+    }

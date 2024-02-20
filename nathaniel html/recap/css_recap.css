@@ -1,0 +1,123 @@
+/* CSS is the language we use to style an HTML document.
+CSS describes how HTML elements should be displayed . *?
+
+?* we use "#" to call html element with id
+and we use "." to call html elements with class */
+/*
+What is Css?
+
+    Css stand for cascading style sheet
+
+    CSS descrbes how html elements are to be
+    displayed on screen, paper, or in other media
+
+    CSS saves a lot of works. It can control the layout
+    of multiple web pages all at once
+    Externals stylesheets are stored in CSS files */
+
+    h1{
+        color: green;
+    }
+
+    h2{
+        color: magenta;
+    }
+
+    h3{
+        color: red;
+    }
+
+    h4{
+        color: yellow;
+    }
+
+    h5{
+        color: blue;
+    }
+
+    h6{
+        color: crimson;
+    }
+
+    ul,ol{
+    /*    background-color: aqua; */
+        margin-right: 90%;
+    }
+
+    #search{
+        width: 200px;
+    }
+
+    #email{
+        width: 200px;
+    }
+
+    #username{
+        width: 200px;
+    }
+
+    #password{
+        width: 200px;
+    }
+
+    #radio{
+        width: 200px;
+    }
+
+    #range{
+        width: 200px;
+    }
+
+    #color{
+        width: 200px;
+    }
+
+    #checkbox{
+        width: 10px;
+    }
+
+    #date{
+        width: 200px;
+    }
+
+    #file{
+        width: 200px;
+    }
+
+    .navbar{
+        display: flex;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        background-color: crimson;
+        height: 35px;
+        font-size: 30px;
+    }
+
+    .navbar a:hover{
+        background-color: black;
+        cursor: pointer;
+    }
+
+    .navbar a{
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+    }
+    
+    #n{
+        margin-right: 10px;
+        background-color: greenyellow;
+    }
+
+    #na{
+        margin-left: 30px;
+    }
+
+    #nat{
+        margin-left: 30px;
+    }
+
+    #nate{
+        margin-left: 850px;
+    }
+

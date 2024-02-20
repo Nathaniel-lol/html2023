@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0%;
+    background-color: skyblue;
+}
+
+.items{
+    background-color: white;
+    width: 250px;
+    height: 400px;
+    margin-left: 525px;
+    border-radius: 10px;
+}
+
+#starting_btn{
+    background-color: green;
+    border: none;
+    padding: 8px;
+}
+
+#free_p{
+    opacity: 50%;
+    margin-left: 100px;
+    padding: 10px;
+}

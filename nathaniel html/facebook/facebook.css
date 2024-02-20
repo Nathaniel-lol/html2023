@@ -1,0 +1,68 @@
+.nav{
+    display: flex;
+    background-color: bisque;
+}
+
+#inputs{
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-radius: 3px;
+}
+
+#input{
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 740px;
+    border-radius: 3px;
+}
+
+button{
+    width: 70px;
+    height: 50px;
+    color: white;
+    background-color: rgb(30, 30, 190);
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 20px;
+    font-size: 20px;
+    border: none;
+}
+
+a{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+#lol{
+    color: blue;
+}
+
+img{
+    height: 300px;
+    margin-left: 250px;
+}
+
+#jj{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20%;
+    /* margin-top: 29%; */
+ margin-right: 80%;
+}
+
+.nn{
+    display: flex;
+    background-image: url("cory.jpg");
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    justify-content: center;
+    margin-bottom: 20%;
+
+}
+
+
+

@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(35,37,39);
+}
+
+nav{
+    display: flex;
+    background-color: rgb(25, 27, 29);
+
+}
+
+/* nav button,input{ 
+    height: 40px;
+}  */
+
+nav *{
+    color: white;
+    margin-left: 35px;
+}
+
+input{
+    background-color: rgb(35,37,39);
+    color: gray;
+    border-color: darkgray;
+}
+
+.login{
+    background-color: rgb(66, 67, 67);
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 450px;
+    margin-left: 35%;
+    margin-top: 3%;
+}

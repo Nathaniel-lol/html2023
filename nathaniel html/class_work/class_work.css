@@ -1,0 +1,35 @@
+.nav_bar{
+    background-color: black;
+    color: white;
+    height: 35px;
+    font-size: 20px;
+    width: 1260px;
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav_bar li:hover{
+    cursor: pointer;
+    background-color: red;
+}
+ 
+.nav_bar li{
+    color: white;
+    margin-left: 20px;
+}
+
+.nav_bar a{
+    color: white;
+    text-decoration: none;
+}
+
+.zangetsu{
+    margin-left: 800px;
+}
+
+
+
+
+

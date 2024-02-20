@@ -1,0 +1,42 @@
+.form{
+    background-color: rgb(2, 2, 86);
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 450px;
+    border: solid black 5px;
+    margin-left: 29%;
+    margin-top: 40px;
+    padding: 1%;
+}
+
+h1{
+    color: white;
+    margin-left: 27%;
+}
+
+.submit_btn{
+    height: 30px
+}
+
+.input_txt{
+    height: 30px;
+}
+
+#msg{
+    opacity: 90%;
+}
+
+#submit{
+    margin-top: 20%;
+    width: 150px;
+    height: 40px;
+    margin-left: 35%;
+    background: none;
+    color: white;
+}
+
+#submit:hover{
+    background-color: black;
+    cursor: pointer;
+}

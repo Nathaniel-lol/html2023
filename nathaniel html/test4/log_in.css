@@ -1,0 +1,134 @@
+body{
+    background-color: rgb(19, 15, 15);
+}
+
+nav{
+    display: flex;
+    background-color: black;
+    width: 1270px;
+
+}
+
+#tes{
+    margin-left: 15px;
+}
+
+#test{
+    margin-left: 15px;
+}
+
+#lol{
+    margin-left: 30px;
+    width: 200px;
+    height: 30px;
+    margin-top: 15px;
+    color: white;
+    background-color: rgb(30, 25, 25);
+    border-radius: 10px;
+}
+
+#sign_up{
+    background-color: greenyellow;
+    margin-left: 550px;
+    margin-top: 15px;
+    width: 70px;
+    height: 45px;
+    color: white;
+    border-radius: 10px;
+}
+
+#sign_up:hover{
+    cursor: pointer;
+    background-color: black;
+}
+
+.log_in{
+    width: 300px;
+    background-color: rgb(45, 47, 49);
+    height: 330px;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+#log_in{
+    width: 250px;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    border-color: white;
+    background-color: rgb(45, 47, 49);
+    margin-left: 25px;
+    color: white;
+}
+
+#ed{
+    margin-bottom: 5px;
+    width: 241px;
+    border-radius: 3px; 
+    background-color: rgb(30, 25, 25);
+    margin-left: 25px;
+}
+
+#club{
+    width: 241px;
+    border-radius: 3px;
+    margin-bottom: 4px;
+    background-color: rgb(30, 25, 25);
+    margin-left: 25px;
+}
+
+#fpor{
+    color: white;
+    margin-left: 50px; 
+}
+
+#otc{
+    background-color: rgb(45, 47, 49);
+    width: 250px;
+    height: 30px;
+    color: white;
+    border-color: white;
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+
+#uad{
+    background-color: rgb(45, 47, 49);
+    width: 250px;
+    height: 30px;
+    color: white;
+    border-color: white;
+    margin-left: 25px;
+}
+
+p{
+    color: white;
+    margin-left: 15px;
+}
+
+#idk{
+    color: white;
+    text-decoration: none;
+}
+
+h1{
+    margin-left: 30px;
+}
+
+.dk{
+    color: white;
+}
+
+.dk:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    margin-left: 55px;
+}

@@ -1,0 +1,27 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: skyblue;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    border: none;
+    background-color: rgb(7, 10, 222);
+    color: white;
+}
+
+.items{
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.free, .plus, .pro{
+    background-color: white;
+    border-radius: 15px;
+    width: 250px;
+    height: 350px;
+}

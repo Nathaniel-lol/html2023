@@ -1,0 +1,54 @@
+<html>
+<head>
+    <title>card</title>
+</head>
+<body>
+    <div class="card">
+    <input id="card_number" type="text" placeholder="Card Number">
+    <input id="date" type="date">
+    <input id="cvv" placeholder="CVV">
+    <button id="submit_btn">submit</button>
+    <button id="paypal_btn">PAYPAL</button>
+    </div>
+</body>
+<style>
+    #card_number{
+        height:30px;
+        border: solid 2px;
+    }
+    
+    #date{
+        height: 30px;
+        border: solid 3px;
+    }
+
+    #cvv{
+        height: 30px;
+        border: solid 2px;
+    }
+
+    #submit_btn{
+        background-color: rgb(13, 190, 13);
+        height: 30px;
+        width: 100px;
+    }
+
+    #paypal_btn{
+        background-color: blue;
+        height: 30px;
+        width: 120px;
+    }
+
+    .card{
+      display: flex;
+      justify-content: center;
+    /* align-items: center; */
+    flex-direction: column;
+    background-color: gold;
+    width: 425px;
+    height: 475px;
+    border: solid 1px;
+    margin-left: 420px;
+    }
+</style>
+</html>
